@@ -20,6 +20,7 @@ Sou focado em transformar ideias abstratas em aplicações robustas, eficientes 
     </td>
   </tr>
 </table>
+
 ---
 
 ### Sobre Mim:

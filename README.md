@@ -1,4 +1,4 @@
-# Olá, eu sou o Maurício Ortiga! 👋
+# Olá, me chamo Maurício Ortiga! 👋
 
 Sou focado em transformar ideias abstratas em aplicações robustas, eficientes e visualmente impactantes. Transito entre a lógica sólida do back-end e a experiência fluida do front-end e UI/UX.
 

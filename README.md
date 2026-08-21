@@ -9,6 +9,7 @@ Sou focado em transformar ideias abstratas em aplicações robustas, eficientes 
       <ul>
         <li><b>Linguagens:</b> Python (Foco em lógica avançada, manipulação de dados e fluxos estruturados)</li>
         <li><b>Estruturas:</b> Algoritmos, Estruturas de Dados e POO</li>
+        <li><b>Design:</b> Boas práticas com Adobe Photoshop e criação de vídeos com Adobe Premier </li>
       </ul>
     </td>
     <td valign="top" width="50%">

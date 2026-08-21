@@ -29,3 +29,4 @@ Sou focado em transformar ideias abstratas em aplicações robustas, eficientes 
 - 📚 Atualmente cursando **Ciência da Computação** no Centro Universitário do Distrito Federal (UDF).
 - 💡Foco em aplicações de boas práticas de código e arquitetura.
 
+[https://dev.to/mauricioortiga](https://dev.to/mauricioortiga)

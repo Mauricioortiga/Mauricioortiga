@@ -32,6 +32,8 @@ Sou focado em transformar ideias abstratas em aplicações robustas, eficientes 
 
 ---
 
-📍 **Conecte-se comigo:**
+⚡ **Contato:**
+
 🔗 [LinkedIn](https://linkedin.com/in/mauricioortiga)
+
 ✍️ [Dev.to](https://dev.to/mauricioortiga)
